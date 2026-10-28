@@ -1,1 +1,1 @@
-{"version":"1.9","url":"https://raw.githubusercontent.com/SeuDani-Ai/pileta-firmware/main/ControlPileta-1.9.bin","notas":"Pedile el estado al bot escribiendo estado; elegí cada cuántos minutos llegan los mensajes de estado (también con cada 60); las versiones nuevas ya no se instalan solas: el equipo pregunta antes"}
+{"version":"1.11","url":"https://raw.githubusercontent.com/SeuDani-Ai/pileta-firmware/main/ControlPileta-1.11.bin","notas":"Comando resumen de Telegram: todos los ajustes de la pestaña Resumen (filtrado, luces, protección de la bomba, sensores y equipo)"}
