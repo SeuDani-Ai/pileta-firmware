@@ -1,1 +1,1 @@
-{"version":"1.11","url":"https://raw.githubusercontent.com/SeuDani-Ai/pileta-firmware/main/ControlPileta-1.11.bin","notas":"Comando resumen de Telegram: todos los ajustes de la pestaña Resumen (filtrado, luces, protección de la bomba, sensores y equipo)"}
+{"version":"1.14","url":"https://raw.githubusercontent.com/SeuDani-Ai/pileta-firmware/main/ControlPileta-1.14.bin","notas":"Resumen de Telegram con colores, íconos y secciones separadas. Incluye Mis horarios guardados (hasta 5 horarios de filtrado con nombre) y el aviso de prueba de Telegram que se oculta solo."}
